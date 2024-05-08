@@ -291,7 +291,7 @@ $date = $row['datetime'];
 	<script src="js/owl.carousel.min.js"></script>
 
 	<!-- Google Map -->
-	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCefOgb1ZWqYtj7raVSmN4PL2WkTrc-KyA&sensor=false"></script>
+	<script src="https://maps.googleapis.com/maps/"></script>
 	<script src="js/google_map.js"></script>
 
 	<!-- Main -->
